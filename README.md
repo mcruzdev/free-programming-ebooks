@@ -25,7 +25,7 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 
 ## Contributing
 
-To contribute a haiku to this repository, read about submitting a pull request in the DigitalOcean tutorial [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github).
+To contribute a haiku to this repository, read about submitting a pull request in the DigitalOcean tutorial [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) or if you want to see the Github [documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
 ## Learn More
 
