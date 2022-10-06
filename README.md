@@ -23,6 +23,19 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+## Prototype
+
+This is the web applications's prototype, all specifications will be on issue.
+
+### Features
+
+1. The application allows the user to type the book's name and finding a free book.
+2. THe application allows the user to register a new free ebook (Only admin users).
+
+
+![free](https://user-images.githubusercontent.com/56329339/194348287-1be3b3b7-8d32-40ea-a4c9-06969127191d.png)
+
+
 ## Contributing
 
 To contribute a haiku to this repository, read about submitting a pull request in the DigitalOcean tutorial [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) or if you want to see the Github [documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
