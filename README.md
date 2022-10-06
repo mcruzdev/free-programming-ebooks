@@ -40,6 +40,8 @@ This is the web applications's prototype, all specifications will be on issue.
 
 To contribute a haiku to this repository, read about submitting a pull request in the DigitalOcean tutorial [How To Create a Pull Request on GitHub](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github) or if you want to see the Github [documentation](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request).
 
+### Conventional Commits
+Will be great if you use the specification [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/).
 ## Learn More
 
 To learn more about Next.js, take a look at the following resources:
