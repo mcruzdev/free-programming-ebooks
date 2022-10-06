@@ -5,6 +5,7 @@ The `free-programming-ebooks` is a web application that aims to allow the search
 ## Technologies:
 
 Backend: Java 17 and SpringBoot
+
 Frontend: NextJS
 
 ## Architecture
