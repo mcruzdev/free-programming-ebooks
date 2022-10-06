@@ -8,6 +8,10 @@ Backend: Java 17 and SpringBoot
 
 Frontend: NextJS
 
+## Tutorials
+
+- [Create S3 Bucket](./docs/tutorials/create-s3-bucket.md)
+
 ## Architecture
 
 This is a simple architecture for study purpose!
