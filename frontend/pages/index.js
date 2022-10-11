@@ -14,7 +14,8 @@ import Typography from "@mui/material/Typography";
 import Container from "@mui/material/Container";
 import { createTheme, ThemeProvider } from "@mui/material/styles";
 import Footer from '../components/Footer';
-import NavBar from '../components/navBar';
+import NavBar from '../components/NavBar';
+
 const theme = createTheme({
   typography: {
     color: "#FBFCFF",
@@ -40,7 +41,7 @@ const theme = createTheme({
 
 const cards = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
-export default function Album() {
+export default function listBooks() {
   return (
     <ThemeProvider theme={theme}>
       <CssBaseline />
@@ -66,7 +67,7 @@ export default function Album() {
             <Container maxWidth="sm">
               <Typography
                 variant="h6"
-                align="start"
+                align="left"
                 color="text.secondary"
                 paragraph
               >
